@@ -1,7 +1,7 @@
-import sumar from "./sumador.js";
+import contarPalabra from "./contador.js";
 
-describe("Sumar", () => {
-  it("deberia sumar dos numeros", () => {
-    expect(sumar(3, 2)).toEqual(5);
+describe("Contar primer repetido", () => {
+  it("deberia contar el mas repetido", () => {
+    expect(contarPalabra("password PASWORD")).toEqual("pasword: 2");
   });
 });

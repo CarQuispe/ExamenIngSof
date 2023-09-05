@@ -1,0 +1,6 @@
+1 ingresar frase
+2 Mostrar frase
+4 contar primera ocurrencia y mostrar palabra repetida
+5 Contar segunda ocurrencia y mostrar palabra repetida
+6 Contar tercera ocurrencia  y mostrar palabra repetida
+ 
